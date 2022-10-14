@@ -1,0 +1,33 @@
+{
+    "Asus":
+    {
+        "ár":130000,
+        "szélesség":25,
+        "fogyasztás":20,
+        "panel":"IPS"
+    }
+    ,
+    "Acer":
+    {
+        "ár":100000,
+        "szélesség":30,
+        "fogyasztás":25,
+        "panel":"VA"
+    }
+    ,
+    "HP":
+    {
+        "ár":75000,
+        "szélesség":22,
+        "fogyasztás":19,
+        "panel":"IPS"
+    }
+    ,
+    "AOC":
+    {
+        "ár":90000,
+        "szélesség":27,
+        "fogyasztás":19,
+        "panel":"TN"
+    }
+}
